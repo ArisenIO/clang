@@ -1,0 +1,1 @@
+add_llvm_loadable_module(arisen_plugin arisen_autogen.cpp PLUGIN_TOOL clang)
